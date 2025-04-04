@@ -4,6 +4,8 @@ A modern, responsive movie discovery application built with React and TypeScript
 
 ![Movie Library Screenshot](https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?auto=format&fit=crop&q=80&w=1200&h=400&crop=edges)
 
+## 🌟 Live Demo
+
 - [Netlify Demo](https://jolly-pastelito-23aeb6.netlify.app)
 - [GitHub Pages Demo](https://dchushkov.github.io/Movie-Library)
 
@@ -37,12 +39,12 @@ A modern, responsive movie discovery application built with React and TypeScript
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/movie-library.git
+   git clone https://github.com/dChushkov/Movie-Library.git
    ```
 
 2. Install dependencies:
    ```bash
-   cd movie-library
+   cd Movie-Library
    npm install
    ```
 
