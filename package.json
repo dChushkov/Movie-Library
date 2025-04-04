@@ -2,6 +2,7 @@
   "name": "Movie-Library",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://dchushkov.github.io/Movie-Library",
   "type": "module",
   "scripts": {
     "dev": "vite",
