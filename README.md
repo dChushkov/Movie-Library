@@ -4,7 +4,8 @@ A modern, responsive movie discovery application built with React and TypeScript
 
 ![Movie Library Screenshot](https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?auto=format&fit=crop&q=80&w=1200&h=400&crop=edges)
 
-## 🌟 [Live Demo](https://movie-library-react-ts.netlify.app)
+- [Netlify Demo](https://jolly-pastelito-23aeb6.netlify.app)
+- [GitHub Pages Demo](https://dchushkov.github.io/Movie-Library)
 
 ## ✨ Features
 
