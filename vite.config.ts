@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: '/Movie-Library/',
+  base: './',
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
